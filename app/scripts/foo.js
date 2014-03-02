@@ -1,3 +1,3 @@
-function foo () {
-	return "I am foo!";
+function foo (name) {
+	return "Hello, " + name + ". I am foo!";
 }
